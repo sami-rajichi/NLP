@@ -1,0 +1,40 @@
+ENIS	mails	webmaster@enis.tn	4
+ENIS	code	3038	2
+ENIS	tels	(+216) 70 25 85 20	2
+ENIS	fax	(+216) 74 27 55 95	1
+ENET'Com	mails	contact@enetcom.usf.tn	3
+ENET'Com	code	3018	2
+ENET'Com	tels	(+216) 74 86 30 47	2
+ENET'Com	tels	(+216) 74 86 25 00	2
+ENET'Com	fax	(+216) 74 86 30 37	2
+ENIM	mails	enim@enim.rnu.tn	3
+ENIM	code	5019	2
+ENIM	tels	(+216) 73 50 05 11	2
+ENIM	tels	(+216) 73 50 05 14	2
+ENIM	fax	(+216) 73 50 05 14	2
+ISIMa	mails	isima@isima.rnu.tn	1
+ISIMa	code	5111	1
+ISIMa	tels	(+216) 73 68 31 00	1
+ISIMa	tels	(+216) 73 68 31 20	1
+ISGIS	mails	direction.isgis@isgis.usf.tn	2
+ISGIS	code	3021	4
+ISGIS	tels	(+216) 74 86 30 90	1
+ISGIS	fax	(+216) 74 86 30 92	1
+FSS	mails	contact@fss.rnu.tn	3
+FSS	code	3000	2
+FSS	tels	(+216) 74 27 64 00	2
+FSS	tels	(+216) 74 27 67 63	2
+FSS	fax	(+216) 74 27 44 37	2
+FSM	mails	fsm@fsm.rnu.tn	1
+FSM	code	5019	2
+FSM	tels	(+216) 73 50 02 76	1
+FSM	fax	(+216) 73 50 02 78	1
+FSEGS	mails	contact@fsegs.rnu.tn	1
+FSEGS	code	3018	1
+FSEGS	tels	(+216) 74 27 87 77	1
+FSEGS	fax	(+216) 74 27 91 39	1
+FSEGMA	mails	fsegma@fsegma.rnu.tn	2
+FSEGMA	code	5111	1
+FSEGMA	tels	(+216) 73 68 31 91	1
+FSEGMA	tels	(+216) 73 68 31 92	1
+
