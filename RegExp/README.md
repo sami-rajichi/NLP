@@ -34,7 +34,7 @@ Postal codes are usually found in institute addresses and typically consist of 4
 
 ## Evaluation of the Work
 
-- **Recall**: 1.0
-- **Precision**: 1.0
-- **F1-score**: 1.0
+- **Recall**: 0.8823
+- **Precision**: 0.9836
+- **F1-score**: 0.9302
 
